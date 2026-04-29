@@ -41,8 +41,7 @@ Where are delays, detentions, and inefficiencies driving increased costs and red
 | Asset | Description |
 |------|------------|
 | 📈 Dashboard | Excel / Power BI visualization *(link here)* |
-| 📊 Dataset | `fact_orders_1000.csv` 'Synth_Data_3_20_2026_1000_Dirty.csv'
-  'Synth_Data_3_20_2026_1000 New.xls'|
+| 📊 Dataset | `fact_orders_1000.csv`,'Synth_Data_3_20_2026_1000_Dirty.csv','Synth_Data_3_20_2026_1000 New.xls'|
 | ⚙️ Model | Excel (.xlsm) with KPIs + automation |
 | 📄 Summary | Executive insights and recommendations |
 
