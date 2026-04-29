@@ -50,7 +50,7 @@ Where are delays, detentions, and inefficiencies driving increased costs and red
 ## 🧹 Data Preparation & Cleaning
 Short summary here...
 
-📄 Detailed Cleaning Notes → [View Here]([link](https://github.com/yourusername/yourrepo/blob/main/data-cleaning-notes.md)
+📄 Detailed Cleaning Notes → [View Here] (https://github.com/yourusername/yourrepo/blob/main/data-cleaning-notes.md)
 
 Before analysis, the dataset required preprocessing to ensure accuracy and reliability of insights.
 
