@@ -48,23 +48,11 @@ Where are delays, detentions, and inefficiencies driving increased costs and red
 ---
 
 ## 🧹 Data Preparation & Cleaning
+Short summary here...
+
+📄 Detailed Cleaning Notes → [View Here]([link](https://github.com/yourusername/yourrepo/blob/main/data-cleaning-notes.md)
 
 Before analysis, the dataset required preprocessing to ensure accuracy and reliability of insights.
-
-### Key Data Issues Identified:
-- Missing or inconsistent delivery timestamps  
-- Duplicate shipment records  
-- Incomplete carrier and lane information  
-- Outliers in delivery time and distance  
-
-### Cleaning & Transformation Steps:
-- Removed or imputed missing values where appropriate  
-- Deduplicated shipment records to avoid skewed metrics  
-- Standardized categorical fields (carrier names, regions, truck types)  
-- Created calculated fields:
-  - Delivery delay (actual vs scheduled)
-  - Distance bands (e.g., 0–500, 501–1000 miles)
-  - Delay severity classification  
 
 ### Why This Matters:
 Accurate data preparation ensures that delay rates, cost drivers, and RPM insights reflect **true operational performance**, not data inconsistencies.
